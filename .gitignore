@@ -1,0 +1,5 @@
+.env
+.miro_token
+*.token
+__pycache__/
+.venv/
